@@ -10,7 +10,8 @@
     'version': "13.0.1.0.0",
     'depends': [],
     'data': ['views/facturas_cambiar.xml',
-                'security/ir.model.access.csv'],
+                # 'security/ir.model.access.csv'
+                ],
     'qweb': [],
     'demo': [],
     'installable': True,
